@@ -1,0 +1,8 @@
+.square {
+  display: block;
+  width: 90vmin;
+  height: 90vmin;
+  background-color: teal;
+  margin: 20px;
+}
+
